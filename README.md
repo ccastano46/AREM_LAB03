@@ -1,8 +1,3 @@
-_# Laboratory 3: Image Classification with Neural Networks on CIFAR-10
-
-**Author:** Manus AI (based on the AREM_LAB03 notebook)
-**Date:** February 10, 2026
-
 ## 1. Problem Description
 
 This laboratory addresses a **multi-class image classification** problem using the CIFAR-10 dataset. The main objective is to compare the performance of two fundamentally different neural network architectures:
